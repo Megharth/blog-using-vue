@@ -1,6 +1,8 @@
 # my-blog
 
 > A Vue.js project
+> Used firebase for Database
+> Used Vue-material for Design 
 
 ## Build Setup
 
